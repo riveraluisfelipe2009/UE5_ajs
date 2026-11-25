@@ -1,0 +1,10 @@
+[
+  { "id": 1, "titre": "Le Petit Prince", "auteur": "Antoine de Saint-Exupéry", "annee": 1943, "genre": "Conte", "pages": 96 },
+  { "id": 2, "titre": "L'Étranger", "auteur": "Albert Camus", "annee": 1942, "genre": "Roman", "pages": 184 },
+  { "id": 3, "titre": "Vingt mille lieues sous les mers", "auteur": "Jules Verne", "annee": 1870, "genre": "Aventure", "pages": 512 },
+  { "id": 4, "titre": "Le Tour du monde en quatre-vingts jours", "auteur": "Jules Verne", "annee": 1872, "genre": "Aventure", "pages": 320 },
+  { "id": 5, "titre": "Germinal", "auteur": "Émile Zola", "annee": 1885, "genre": "Roman", "pages": 592 },
+  { "id": 6, "titre": "Le Horla", "auteur": "Guy de Maupassant", "annee": 1887, "genre": "Fantastique", "pages": 64 },
+  { "id": 7, "titre": "Les Misérables", "auteur": "Victor Hugo", "annee": 1862, "genre": "Roman", "pages": 1488 },
+  { "id": 8, "titre": "Frankenstein", "auteur": "Mary Shelley", "annee": 1818, "genre": "Fantastique", "pages": 280 }
+]
